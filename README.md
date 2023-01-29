@@ -8,7 +8,3 @@ Server Side Implementation includes
 3. Lombok
 4. RazorPay Service
 5. SqlLite 3
-
-Client Side Implementation includes
-1. ReactJs
-2. Axios
